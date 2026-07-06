@@ -342,3 +342,17 @@ section {
     }
 
 }
+
+.skill-bars {
+    margin-top: 30px;
+}
+
+.skill-bars p {
+    margin: 10px 0 5px;
+    font-weight: bold;
+}
+
+.skill-bars progress {
+    width: 100%;
+    height: 20px;
+}
